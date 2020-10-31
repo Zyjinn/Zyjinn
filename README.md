@@ -17,8 +17,8 @@
 
 ## 📫 How to reach me: ...
 
-- [Check out my website!] [website]
+- [My Website]
 
 <!-- Definitions -->
 
-[website]: https://nicholasbourgeois.me/homePage
+[my website]: https://nicholasbourgeois.me/homePage
