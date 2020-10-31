@@ -1,18 +1,24 @@
-### Hi there 👋
-
 <!--
 **Zyjinn/Zyjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-My website
-- 🌱 I’m currently learning ...
-Angular (Javascript, CSS, HTML)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-Check out my website! https://nicholasbourgeois.me/homePage
-
 -->
+
+# Hi there 👋
+
+## 🔭 I’m currently working on ...
+
+- My website
+
+## - 🌱 I’m currently learning ...
+
+- Angular
+- Java
+- CSS
+- HTML
+
+## 📫 How to reach me: ...
+
+- [Check out my website!] [website]
+
+<!-- Definitions -->
+
+[website]: https://nicholasbourgeois.me/homePage
