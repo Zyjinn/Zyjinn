@@ -6,20 +6,21 @@
 
 My name is Nicholas Bourgeois
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on:
 
 - My website
 
-## - 🌱 I’m currently learning ...
+## - 🌱 I’m currently learning:
 
 - Angular
 - Java
 - CSS
 - HTML
 
-## 📫 How to reach me: ...
+## 📫 How to reach me:
 
 - [My Website]
+  - Fill out the contact form on my website!
 
 <!-- Definitions -->
 
