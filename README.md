@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-My name is Nicholas Bourgeois
+My name is Nicholas Bourgeois, I am currently working on [My personal Website](https://github.com/Zyjinn/nick-resume-website-angular)
 
 ## 🔭 I’m currently working on:
 
