@@ -4,6 +4,8 @@
 
 # Hi there 👋
 
+My name is Nicholas Bourgeois
+
 ## 🔭 I’m currently working on ...
 
 - My website
