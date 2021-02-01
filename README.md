@@ -4,11 +4,11 @@
 
 # Hi there 👋
 
-My name is Nicholas Bourgeois, I am currently working on [My personal Website](https://github.com/Zyjinn/nick-resume-website-angular)
+My name is Nicholas Bourgeois! Coder, Tea lover, animal lover, and also I like the color green! 🟢
 
 ## 🔭 I’m currently working on:
 
-- My website
+- [My personal Website](https://github.com/Zyjinn/nick-resume-website-angular)
 
 ## - 🌱 I’m currently learning:
 
