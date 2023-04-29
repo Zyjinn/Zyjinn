@@ -6,16 +6,15 @@
 
 My name is Nicholas Bourgeois! Coder, Tea lover, animal lover, and also I like the color green! 🟢
 
-## 🔭 I’m currently working on:
+I'm a technical consultant for my day job, so I do various things, from development to infrastructure, to just meeting and discussing with people!
 
-- [My personal Website](https://github.com/Zyjinn/nick-resume-website-angular)
+On the side, I like to do some game development, utilizing the Godot engine!
+
+## 🔭 I’m currently working on:
 
 ## - 🌱 I’m currently learning:
 
-- Angular
-- Java
-- CSS
-- HTML
+- C# + Godot Engine
 
 ## 📫 How to reach me:
 
